@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nathan</h1>
 <h3 align="center">Lifelong student, aspiring Engineer, nerd and technophile :)</h3>
 
-- 🔭 I’m currently working on **AWS DevOps Projects, CI/CD Pipelines and Ifrastructure Automation**
+- 🔭 I’m currently working on **AWS DevOps Projects, CI/CD Pipelines and Infrastructure Automation**
 
 - 🌱 I’m currently learning more about **Terraform, Ansible, Kubernetes, Jenkins**
 
